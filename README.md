@@ -21,7 +21,7 @@ After completing the design export it to PDF.
 Publish the website in the given URL.
 
 ## OUTPUT:
-
+![design (1)](https://user-images.githubusercontent.com/120623104/215336772-da592733-052b-4357-b232-4da41b0f4e5f.jpg)
 
 ## Result:
 Hence the UX design for the Event Registration webpage is done.
